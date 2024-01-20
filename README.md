@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world, welcome to my Read Me. My name's Antonio, and I'm learning how to code in C++ 👋
 
 <!--
 **HyenaSuperiority/HyenaSuperiority** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
